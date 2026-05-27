@@ -1,3 +1,14 @@
+<div align="center">
+
+# Hello I'm Pranav 👋
+
+### 🚀 Data Engineer | 💻 Data Analyst 
+
+</div>
+<p>
+ 
+ ---
+ 
 # 💫 About Me:
 Aspiring Data Analyst with practical experience in Excel, Power BI, Tableau and MySQL, focused on transforming raw data into meaningful insights and interactive dashboards. Strong interest in data analysis, problem-solving, and discovering patterns that support smarter business decisions.
 
