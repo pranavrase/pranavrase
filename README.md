@@ -2,7 +2,7 @@
 
 # Hello I'm Pranav 👋
 
-### 🚀 Data Engineer | 💻 Data Analyst 
+###  💻 Data Analyst | 🚀 Data Engineer 
 
 </div>
 <p>
